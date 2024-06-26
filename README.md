@@ -29,3 +29,5 @@ O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões,
 <p>Impacto do Clima: Análise do impacto das condições climáticas nos acidentes.</p>
 <p>Comparação entre Estados: Comparação da segurança viária entre diferentes estados e regiões do Brasil.</p>
 <p>Perfil dos Condutores: Informações sobre o perfil dos motoristas envolvidos em acidentes, incluindo idade, gênero, e histórico de infrações.</p>
+
+https://app.powerbi.com/links/i-it3sji9z?ctid=758dedee-95bb-4e62-91e6-5794b150f1aa&pbi_source=linkShare
