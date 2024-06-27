@@ -1,4 +1,4 @@
-# Dashboard de Análise de Acidentes de Trânsito nas Rodovias Brasileiras
+# Relatório de Acidentes de Trânsito nas Rodovias Brasileiras
 
 ## Descrição do Projeto
 Este projeto visa a construção de um Dashboard interativo que permita explorar tendências e trazer insights valiosos sobre o tráfego e os acidentes nas rodovias do Brasil. 
