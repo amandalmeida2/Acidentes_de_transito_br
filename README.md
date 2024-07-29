@@ -6,9 +6,12 @@
 Este projeto visa a construção de um Dashboard interativo que permita explorar tendências e trazer insights valiosos sobre o tráfego e os acidentes nas rodovias do Brasil. 
 O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões, e promover a conscientização dos condutores para a segurança no trânsito.
 
-<img  width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg2.png?raw=true">
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiZjFhMDM4NjItOWM0Yi00Y2IyLTkyMDUtY2M2MGU3MmY0NGI3IiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
 
-<img  width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg3.png?raw=true">
+
+<img  width="500" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg2.png?raw=true">
+
+<img  width="500" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg3.png?raw=true">
 
 
 ## Funcionalidades Principais
