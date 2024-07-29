@@ -1,8 +1,15 @@
 # Relatório de Acidentes de Trânsito nas Rodovias Brasileiras
 
 ## Descrição do Projeto
+<img align="right" width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg1.png?raw=true">
+
 Este projeto visa a construção de um Dashboard interativo que permita explorar tendências e trazer insights valiosos sobre o tráfego e os acidentes nas rodovias do Brasil. 
 O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões, e promover a conscientização dos condutores para a segurança no trânsito.
+
+<img  width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg2.png?raw=true">
+
+<img  width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg3.png?raw=true">
+
 
 ## Funcionalidades Principais
  **1. Rodovias Mais Perigosas**
@@ -13,7 +20,7 @@ O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões,
 <p>
   Principais Causas: Visualização das causas mais frequentes de acidentes, como excesso de velocidade, uso de álcool, falhas mecânicas, entre outras. </p>
   <p>
-  Segmentação por Fator Contribuinte: Detalhamento das causas por tipo de veículo, condições meteorológicas, e outros fatores relevantes.
+  Segmentação por Fator Contribuinte: Detalhamento das causas por tipo de acidente, condições meteorológicas, e outros fatores relevantes.
 </p>  
 
 **3. Análise Temporal**
@@ -30,13 +37,7 @@ O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões,
 <p>Comparação entre Estados: Comparação da segurança viária entre diferentes estados e regiões do Brasil.</p>
 <p>Perfil dos Condutores: Informações sobre o perfil dos motoristas envolvidos em acidentes, incluindo idade, gênero, e histórico de infrações.</p>
 
-https://app.powerbi.com/view?r=eyJrIjoiZjFhMDM4NjItOWM0Yi00Y2IyLTkyMDUtY2M2MGU3MmY0NGI3IiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9
-
-![Screenshot 2024-06-26 151238](https://github.com/amandalmeida2/Acidentes_de_transito_br/assets/121555406/7c193a0f-6755-421e-a02e-65d6057d8309)
-
-![Screenshot 2024-06-26 151328](https://github.com/amandalmeida2/Acidentes_de_transito_br/assets/121555406/b2eca649-3a72-4466-8df2-e149be3bbcfe)
-
-![Screenshot 2024-06-26 151406](https://github.com/amandalmeida2/Acidentes_de_transito_br/assets/121555406/8f693d9e-242b-428d-acf3-9fa88d5fbb2a)
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiZjFhMDM4NjItOWM0Yi00Y2IyLTkyMDUtY2M2MGU3MmY0NGI3IiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
 
 
 
